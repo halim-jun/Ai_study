@@ -1,3 +1,4 @@
-#first-repository
-add new contents
-new change
+Hi! 
+
+This is Hailey's repository for studying machine learning!
+
