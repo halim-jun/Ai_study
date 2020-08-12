@@ -1,7 +1,7 @@
-Hi! 
-
-This is Hailey's repository for studying machine learning!
+Hailey's repository for studying/practicing machine learning!
 
 Language : python
 
 Language explained : English, Korean
+
+Related : Kaggle, Predictive data analysis, Business 
